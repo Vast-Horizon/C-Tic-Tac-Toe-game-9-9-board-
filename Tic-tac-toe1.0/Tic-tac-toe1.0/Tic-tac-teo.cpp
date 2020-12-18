@@ -74,13 +74,12 @@ int main() {
 	system("pause");
 
 	//start the game
-	cout << "\n-----Game Starts-----\n\n";
+	cout << "\n-----Game Starts-----\n";
 	//define a  matrix to store coordinates
 	int xyMatrix[81][2];
 	int m_X = 0, m_Y = 0;
 	int counter = 1;
 
-	cout <<"Size: " << sizeof(xyMatrix) / sizeof xyMatrix[0] << endl;
 	for (int i = 0; i < 81; i++) {
 
 	
@@ -89,7 +88,7 @@ int main() {
 
 	}
 
-	
+	cout<<endl;
 
 	while (1) {
 		char piece;
