@@ -19,3 +19,8 @@ The program is able to:
  Check whether a coordinate is already occupied
  track the numbers of X and O on the borad
 **/
+
+
+This is what it looks like running in the windows console
+
+![](images/demo1.jpg)
