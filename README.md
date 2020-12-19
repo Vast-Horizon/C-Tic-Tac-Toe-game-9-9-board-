@@ -14,10 +14,14 @@ On a 9*9 playing board, the player who succeeds in placing *four* of their marks
 in a diagonal, horizontal, or vertical row is the winner.
 
 The program is able to:
- Implement the game
- Detect the winner 
- Check whether a coordinate is already occupied
- track the numbers of X and O on the borad
+
+Implement the game.
+ 
+ Detect the winner.
+ 
+ Check whether a coordinate is already occupied.
+ 
+ Track the numbers of X and O on the borad.
 **/
 
 
